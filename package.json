@@ -1,0 +1,28 @@
+{
+  "name": "webpack-react",
+  "version": "1.0.0",
+  "description": "webpack react admin ",
+  "main": "index.js",
+  "author": "shunhua.liang",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --mode development --config ./config/webpack.dev.js",
+    "build": "webpack --mode production --config ./config/webpack.base.js"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "css-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "style-loader": "^3.2.1",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^5.8.0"
+  },
+  "dependencies": {
+    "exports-loader": "^3.0.0",
+    "file-loader": "^6.2.0"
+  }
+}
