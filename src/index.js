@@ -1,19 +1,11 @@
 /*
- * @Author: your name
- * @Date: 2021-07-23 21:55:28
- * @LastEditTime: 2021-07-24 10:14:47
+ * @Author: shunhua.liang
+ * @Date: 2021-08-22 11:21:14
+ * @LastEditTime: 2021-08-22 11:21:21
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \webpack-react\src\index.js
  */
-// /*
-//  * @Author: your name
-//  * @Date: 2021-07-23 21:55:28
-//  * @LastEditTime: 2021-07-23 22:38:13
-//  * @LastEditors: Please set LastEditors
-//  * @Description: In User Settings Edit
-//  * @FilePath: \webpack-react\src\index.js
-//  */
 
 // import React from 'react'
 // import ReactDOM from 'react-dom'

@@ -1,9 +1,9 @@
 /*
- * @Author: your name
- * @Date: 2021-07-23 22:13:21
- * @LastEditTime: 2021-08-22 10:46:57
+ * @Author: shunhua.liang
+ * @Date: 2021-08-22 11:20:32
+ * @LastEditTime: 2021-08-22 11:20:32
  * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
+ * @Description: webpack 配置开发文件
  * @FilePath: \webpack-react\config\webpack.dev.js
  */
 
